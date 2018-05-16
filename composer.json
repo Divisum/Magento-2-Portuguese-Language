@@ -1,0 +1,23 @@
+{
+  "name": "silverstores/pt_PT",
+  "description": "Portuguese language package for Magento 2",
+  "homepage": "https://silverstores.net",
+  "type": "magento2-language",
+  "version": "1.0.1",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "SilverStoreS",
+      "email": "bgaiteiro@gmail.com",
+      "homepage": "https://silverstores.net",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
